@@ -35,7 +35,7 @@ DialogixAI is built with modern web technologies to provide a seamless, intuitiv
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/dialogix.git
+git clone https://github.com/Tayyaba-create/Dialogix.git
 cd dialogix
 ```
 
