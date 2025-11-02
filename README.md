@@ -116,4 +116,4 @@ If you encounter any issues or have questions, please:
 
 ---
 
-Built with ❤️ by the Tayyaba Faisal
+Built with ❤️ by the dialogix team
